@@ -1,0 +1,23 @@
+.contact{
+    margin-top: 2em;
+}
+
+.contact h1{
+    margin-bottom: 1em;
+}
+
+.contact div.social{
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.contact div.social button{
+    border-radius: 3px;
+    border: 1px #000 solid;
+    padding: 0.5em;
+    cursor: pointer;
+    background: none;
+}
+

@@ -7,7 +7,7 @@
 
 .navbar a{
     color: #fff;
-    margin-right: 1.5em;
+    margin: 0 1.5em;
     text-decoration: none;
     transition: 1s;
 }
