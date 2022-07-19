@@ -1,6 +1,7 @@
 .home{
   font-size: 1em;
   margin-top: 2em;
+  margin-bottom: 3em;
   background-color: #000;
   padding: 2em 4em;
   display: flex;
@@ -16,3 +17,4 @@
 .home p{
   color: #fff;
 }
+
